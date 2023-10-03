@@ -2,7 +2,7 @@ Usage manual for John Batarekh 607 Project 1
 
 This repository includes the following:
 __pycache__ directory
-__images__ directory
+Images directory
 main.py
 Phys_607_Project_1_Report.pdf
 problems.py
